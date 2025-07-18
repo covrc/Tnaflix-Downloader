@@ -9,5 +9,7 @@ After clonning repo run ```cd Tnaflix-Downloader ; pip install -r requirements.t
 ```sudo pacman -S wget```
 
 ```python tnaflix-dl.py -h``` for help
+
 ```python tnaflix-dl.py URL -F``` to list formats.
-```python tnaflix-xl.py URL -f format``` to download specified format
+
+```python tnaflix-dl.py URL -f format``` to download specified format
