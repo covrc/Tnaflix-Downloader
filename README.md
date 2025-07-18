@@ -5,6 +5,7 @@ A fully working command line video downloader created for tnaflix.com
 After clonning repo run ```cd Tnaflix-Downloader ; pip install -r requirements.txt``` and code depends on wget so in linux systems use your system's package manager to install wget.
 
 ```sudo apt install wget```
+
 ```sudo pacman -S wget```
 
 ```python tnaflix-dl.py -h``` for help
